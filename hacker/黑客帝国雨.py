@@ -73,6 +73,7 @@ while True:
             drops[i] = 0
 
     pygame.display.flip()
+    
 
 
 
